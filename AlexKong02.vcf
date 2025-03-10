@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 17.6.1//EN
+N:;Alex Kong 江慶恩;;;
+FN:Alex Kong 江慶恩
+ORG:CURRENC Group Inc.;
+TITLE:Founder and Executive Chairman
+EMAIL;type=INTERNET;type=pref:alex@currencgroup.com
+TEL;type=WORK;type=VOICE;type=pref:+852 3951 6288
+TEL;type=CELL;type=VOICE:+852 9736 8109
+ADR;type=pref:;;410 North Bridge Road SPACES City Hall Singapore;;;188726;
+item1.URL;type=pref:www.currencgroup.com
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
