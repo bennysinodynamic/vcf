@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 17.6.1//EN
+N:;Dr. Hui Ka Wah\, Ronnie 許家驊醫生;;;
+FN:Dr. Hui Ka Wah\, Ronnie 許家驊醫生
+ORG:CURRENC Group Inc.;
+TITLE:CEO\, Finance Director\, CFA\, MBA\, MBBS\, FHKAM (Paed)
+EMAIL;type=INTERNET;type=pref:ronnie.hui@currencgroup.com
+TEL;type=CELL;type=VOICE;type=pref:+852 9023 3334
+ADR;type=pref:;;410 North Bridge Road SPACES City Hall Singapore;;;188726;
+item1.URL;type=pref:www.currencgroup.com
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
